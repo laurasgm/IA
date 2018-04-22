@@ -4,3 +4,4 @@ En esta carpeta se encuentra la solucion al taller sobre el problema del viajero
 Dentro de lilo.py se obtiene el contenido de cada una de estas, guardadas dentro de la carpeta 'archivos'.
 
 Dentro de TSP.ipynb, documento que es extraido de la pagina norvig.com se le agrega al final la solucion de los puntos 2,3 y 4 del taller.
+Dentro de SimulatedAnneling.ipynb, se encuentra la solucion del problema del agente viajero utilizando el algoritmo de Simulated Anneling implementado en la libreria de aima-python.
